@@ -1,0 +1,8 @@
+{
+  "require": {
+    "monolog/monolog": "^2.0",
+    "cboden/ratchet": "^0.4",
+    "react/event-loop": "^1.1",
+    "react/socket": "^1.6"
+  }
+}
